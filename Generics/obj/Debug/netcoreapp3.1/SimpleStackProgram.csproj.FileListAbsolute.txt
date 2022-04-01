@@ -1,0 +1,14 @@
+C:\Users\Brandon\Documents\Github\CSharpPrograms\Generics\bin\Debug\netcoreapp3.1\SimpleStackProgram.exe
+C:\Users\Brandon\Documents\Github\CSharpPrograms\Generics\bin\Debug\netcoreapp3.1\SimpleStackProgram.deps.json
+C:\Users\Brandon\Documents\Github\CSharpPrograms\Generics\bin\Debug\netcoreapp3.1\SimpleStackProgram.runtimeconfig.json
+C:\Users\Brandon\Documents\Github\CSharpPrograms\Generics\bin\Debug\netcoreapp3.1\SimpleStackProgram.runtimeconfig.dev.json
+C:\Users\Brandon\Documents\Github\CSharpPrograms\Generics\bin\Debug\netcoreapp3.1\SimpleStackProgram.dll
+C:\Users\Brandon\Documents\Github\CSharpPrograms\Generics\bin\Debug\netcoreapp3.1\SimpleStackProgram.pdb
+C:\Users\Brandon\Documents\Github\CSharpPrograms\Generics\obj\Debug\netcoreapp3.1\SimpleStackProgram.csproj.AssemblyReference.cache
+C:\Users\Brandon\Documents\Github\CSharpPrograms\Generics\obj\Debug\netcoreapp3.1\SimpleStackProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brandon\Documents\Github\CSharpPrograms\Generics\obj\Debug\netcoreapp3.1\SimpleStackProgram.AssemblyInfoInputs.cache
+C:\Users\Brandon\Documents\Github\CSharpPrograms\Generics\obj\Debug\netcoreapp3.1\SimpleStackProgram.AssemblyInfo.cs
+C:\Users\Brandon\Documents\Github\CSharpPrograms\Generics\obj\Debug\netcoreapp3.1\SimpleStackProgram.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\Documents\Github\CSharpPrograms\Generics\obj\Debug\netcoreapp3.1\SimpleStackProgram.dll
+C:\Users\Brandon\Documents\Github\CSharpPrograms\Generics\obj\Debug\netcoreapp3.1\SimpleStackProgram.pdb
+C:\Users\Brandon\Documents\Github\CSharpPrograms\Generics\obj\Debug\netcoreapp3.1\SimpleStackProgram.genruntimeconfig.cache

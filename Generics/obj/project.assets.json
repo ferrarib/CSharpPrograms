@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Brandon\\Documents\\Github\\CSharpPrograms\\Generics\\Generics.csproj",
-      "projectName": "Generics",
-      "projectPath": "C:\\Users\\Brandon\\Documents\\Github\\CSharpPrograms\\Generics\\Generics.csproj",
+      "projectUniqueName": "C:\\Users\\Brandon\\Documents\\Github\\CSharpPrograms\\Generics\\SimpleStackProgram.csproj",
+      "projectName": "SimpleStackProgram",
+      "projectPath": "C:\\Users\\Brandon\\Documents\\Github\\CSharpPrograms\\Generics\\SimpleStackProgram.csproj",
       "packagesPath": "C:\\Users\\Brandon\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Brandon\\Documents\\Github\\CSharpPrograms\\Generics\\obj\\",
       "projectStyle": "PackageReference",
