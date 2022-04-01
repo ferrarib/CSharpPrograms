@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Generics
+namespace SimpleStackProgram
 {
     class Program
     {

@@ -1,4 +1,4 @@
-﻿namespace Generics
+﻿namespace SimpleStackProgram
 {
     public class SimpleStack<T>
     {
