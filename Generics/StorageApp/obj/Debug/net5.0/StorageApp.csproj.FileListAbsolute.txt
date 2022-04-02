@@ -1,0 +1,15 @@
+C:\Users\Brandon\Documents\Github\CSharpPrograms\Generics\StorageApp\bin\Debug\net5.0\StorageApp.exe
+C:\Users\Brandon\Documents\Github\CSharpPrograms\Generics\StorageApp\bin\Debug\net5.0\StorageApp.deps.json
+C:\Users\Brandon\Documents\Github\CSharpPrograms\Generics\StorageApp\bin\Debug\net5.0\StorageApp.runtimeconfig.json
+C:\Users\Brandon\Documents\Github\CSharpPrograms\Generics\StorageApp\bin\Debug\net5.0\StorageApp.runtimeconfig.dev.json
+C:\Users\Brandon\Documents\Github\CSharpPrograms\Generics\StorageApp\bin\Debug\net5.0\StorageApp.dll
+C:\Users\Brandon\Documents\Github\CSharpPrograms\Generics\StorageApp\bin\Debug\net5.0\ref\StorageApp.dll
+C:\Users\Brandon\Documents\Github\CSharpPrograms\Generics\StorageApp\bin\Debug\net5.0\StorageApp.pdb
+C:\Users\Brandon\Documents\Github\CSharpPrograms\Generics\StorageApp\obj\Debug\net5.0\StorageApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brandon\Documents\Github\CSharpPrograms\Generics\StorageApp\obj\Debug\net5.0\StorageApp.AssemblyInfoInputs.cache
+C:\Users\Brandon\Documents\Github\CSharpPrograms\Generics\StorageApp\obj\Debug\net5.0\StorageApp.AssemblyInfo.cs
+C:\Users\Brandon\Documents\Github\CSharpPrograms\Generics\StorageApp\obj\Debug\net5.0\StorageApp.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\Documents\Github\CSharpPrograms\Generics\StorageApp\obj\Debug\net5.0\StorageApp.dll
+C:\Users\Brandon\Documents\Github\CSharpPrograms\Generics\StorageApp\obj\Debug\net5.0\ref\StorageApp.dll
+C:\Users\Brandon\Documents\Github\CSharpPrograms\Generics\StorageApp\obj\Debug\net5.0\StorageApp.pdb
+C:\Users\Brandon\Documents\Github\CSharpPrograms\Generics\StorageApp\obj\Debug\net5.0\StorageApp.genruntimeconfig.cache
