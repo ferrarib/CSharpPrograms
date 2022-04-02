@@ -11,3 +11,4 @@ C:\Users\Brandon\Documents\Github\CSharpPrograms\Generics\StorageApp\obj\Debug\n
 C:\Users\Brandon\Documents\Github\CSharpPrograms\Generics\StorageApp\obj\Debug\netcoreapp3.1\StorageApp.dll
 C:\Users\Brandon\Documents\Github\CSharpPrograms\Generics\StorageApp\obj\Debug\netcoreapp3.1\StorageApp.pdb
 C:\Users\Brandon\Documents\Github\CSharpPrograms\Generics\StorageApp\obj\Debug\netcoreapp3.1\StorageApp.genruntimeconfig.cache
+C:\Users\Brandon\Documents\Github\CSharpPrograms\Generics\StorageApp\obj\Debug\netcoreapp3.1\StorageApp.csproj.AssemblyReference.cache

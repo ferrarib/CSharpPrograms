@@ -8,11 +8,16 @@ namespace StorageApp
     {
         static void Main(string[] args)
         {
-            var employeeRepository = new EmployeeRepository();
+            var employeeRepository = new GenericRepositoryWithRemove<Employee>();
             employeeRepository.Add(new Employee { FirstName = "Julia" });
             employeeRepository.Add(new Employee { FirstName = "Anna" });
             employeeRepository.Add(new Employee { FirstName = "Thomas" });
             employeeRepository.Save();
+
+            var organizationRepository = new GenericRepositoryWithRemove<Organization>();
+            organizationRepository.Add(new Organization { Name = "Pluralsight" });
+            organizationRepository.Add(new Organization { Name = "Globomantics" });
+            organizationRepository.Save();
 
             Console.ReadLine();
         }
