@@ -5,9 +5,14 @@ using System.Linq;
 
 namespace StorageApp.Repositories
 {
-    public class GenericRepository<T> where T : IEntity
+    public class ListRepository<T> : IRepository<T> where T : IEntity
     {
         private readonly List<T> _items = new List<T>();
+
+        public IEnumerable<T> GetAll()
+        {
+            return _items;
+        }
 
         public T GetById(int id)
         {

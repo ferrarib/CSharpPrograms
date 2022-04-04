@@ -14,3 +14,16 @@ C:\Users\Brandon\Documents\Github\CSharpPrograms\Generics\StorageApp\obj\Debug\n
 C:\Users\Brandon\Documents\Github\CSharpPrograms\Generics\StorageApp\obj\Debug\net5.0\StorageApp.pdb
 C:\Users\Brandon\Documents\Github\CSharpPrograms\Generics\StorageApp\obj\Debug\net5.0\StorageApp.genruntimeconfig.cache
 C:\Users\Brandon\Documents\Github\CSharpPrograms\Generics\StorageApp\obj\Debug\net5.0\StorageApp.csproj.AssemblyReference.cache
+C:\Users\Brandon\Documents\Github\CSharpPrograms\Generics\StorageApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Brandon\Documents\Github\CSharpPrograms\Generics\StorageApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Brandon\Documents\Github\CSharpPrograms\Generics\StorageApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Brandon\Documents\Github\CSharpPrograms\Generics\StorageApp\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Brandon\Documents\Github\CSharpPrograms\Generics\StorageApp\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Brandon\Documents\Github\CSharpPrograms\Generics\StorageApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Brandon\Documents\Github\CSharpPrograms\Generics\StorageApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Brandon\Documents\Github\CSharpPrograms\Generics\StorageApp\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\Brandon\Documents\Github\CSharpPrograms\Generics\StorageApp\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Brandon\Documents\Github\CSharpPrograms\Generics\StorageApp\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\Brandon\Documents\Github\CSharpPrograms\Generics\StorageApp\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Brandon\Documents\Github\CSharpPrograms\Generics\StorageApp\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Brandon\Documents\Github\CSharpPrograms\Generics\StorageApp\obj\Debug\net5.0\StorageApp.csproj.CopyComplete
