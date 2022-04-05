@@ -27,10 +27,12 @@ namespace StorageApp.Repositories
 
         public void Save()
         {
-            foreach (var item in _items)
-            {
-                Console.WriteLine(item);
-            }
+            //Data already saved.
+        }
+
+        public void Remove(T item)
+        {
+            throw new NotImplementedException();
         }
     }
 }

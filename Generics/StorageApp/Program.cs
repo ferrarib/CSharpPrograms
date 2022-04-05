@@ -11,18 +11,27 @@ namespace StorageApp
         {
             var employeeRepository = new SqlRepository<Employee>(new StorageAppDbContext());
             AddEmployees(employeeRepository);
+            AddManagers(employeeRepository);
             GetEmployeeById(employeeRepository);
             WriteAllToConsole(employeeRepository);
 
             var organizationRepository = new ListRepository<Organization>();
             AddOrganizations(organizationRepository);
+            WriteAllToConsole(organizationRepository);
 
             Console.ReadLine();
         }
 
-        private static void WriteAllToConsole(IRepository<Employee> employeeRepository)
+        private static void AddManagers(IWriteRepository<Manager> managerRepository)
         {
-            var items = employeeRepository.GetAll();
+            managerRepository.Add(new Manager { FirstName = "Sara" });
+            managerRepository.Add(new Manager { FirstName = "Henry" });
+            managerRepository.Save();
+        }
+
+        private static void WriteAllToConsole(IReadRepository<IEntity> repository)
+        {
+            var items = repository.GetAll();
             foreach (var item in items)
             {
                 Console.WriteLine(item);

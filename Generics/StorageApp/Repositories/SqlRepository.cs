@@ -18,7 +18,7 @@ namespace StorageApp.Repositories
 
         public IEnumerable<T> GetAll()
         {
-            return _dbSet.ToList();
+            return _dbSet.OrderBy(item => item.Id).ToList();
         }
 
         public T GetById(int id)
@@ -34,6 +34,11 @@ namespace StorageApp.Repositories
         public void Save()
         {
             _dbContext.SaveChanges();
+        }
+
+        public void Remove(T item)
+        {
+            throw new System.NotImplementedException();
         }
     }
 }
