@@ -5,14 +5,18 @@ using System.Linq;
 
 namespace StorageApp.Repositories
 {
+
+    public delegate void ItemAdded<T>(T item);
     public class SqlRepository<T> : IRepository<T> where T : class, IEntity
     {
         private readonly DbContext _dbContext;
+        private readonly ItemAdded<T>? _itemAddedCallback;
         private readonly DbSet<T> _dbSet;
 
-        public SqlRepository(DbContext dbContext)
+        public SqlRepository(DbContext dbContext, ItemAdded<T>? itemAddedCallback = null)
         {
             _dbContext = dbContext;
+            _itemAddedCallback = itemAddedCallback;
             _dbSet = _dbContext.Set<T>();
         }
 
@@ -29,6 +33,7 @@ namespace StorageApp.Repositories
         public void Add(T item)
         {
             _dbSet.Add(item);
+            _itemAddedCallback?.Invoke(item);
         }
 
         public void Save()
